@@ -32,8 +32,8 @@ icon: (output) =>
 
 style: """
   -webkit-font-smoothing: antialiased
-  font: 9px Input
-  top: 7px
-  right: 160px
+  font: 12px Input
+  top: 6px
+  right: 175px
   color: #d5c4a1
 """
